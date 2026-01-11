@@ -1,7 +1,13 @@
-Zomato Data Analysis Using Python
+🍽️ Zomato Data Analysis Using Python
 
-This project involves Exploratory Data Analysis (EDA) on a Zomato restaurant dataset to analyze pricing patterns, cuisine distribution, and customer behavior. The workflow includes data cleaning, handling missing values, outlier treatment, and feature engineering to ensure high-quality analysis.
+📊 Project Overview
+This project performs Exploratory Data Analysis (EDA) on a Zomato restaurant dataset to uncover insights into pricing trends, cuisine distribution, and customer behavior. The analysis focuses on transforming raw data into meaningful information through structured preprocessing and visualization.
 
-Advanced techniques such as categorical encoding, TF-IDF–based text processing, StandardScaler normalization, and PCA for dimensionality reduction were applied to prepare the data for machine learning and clustering tasks. Visualizations were used to extract actionable business insights.
+🛠️ Key Techniques
+Data cleaning, missing value analysis, outlier treatment, and feature engineering were applied to ensure data quality. Advanced methods such as categorical encoding, TF-IDF for text data, StandardScaler normalization, and PCA for dimensionality reduction were used to prepare the dataset for machine learning tasks.
 
-Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+📈 Outcome
+The project demonstrates how data-driven analysis can support better recommendations, customer segmentation, and business decision-making for food delivery platforms.
+
+💻 Tech Stack
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
